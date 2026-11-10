@@ -14,7 +14,7 @@ const COMPANY_DATA = {
     completo: "RUA LAZARO DE MELO, 56, CENTRO, FORMOSA - GO, CEP 73801-550"
   },
   contato: {
-    email: "cardosoemirandacontabeis@gmail.com",
+    email: "contato@servicoscontabilmiranda.online",
     telefone: "(61) 3631-6383",
     telefoneLocal: "(61) 3631-6383",
     telefoneLink: "+556136316383"
